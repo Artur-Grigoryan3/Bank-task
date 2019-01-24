@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<cards>
+
+    <card>
+        <cardNumber>101221133</cardNumber>
+        <cardBrand>Visa</cardBrand>
+        <currency>AMD</currency>
+        <issuerBank>AmeriaBank</issuerBank>
+        <cardHolder>Arthur Grigoryan</cardHolder>
+        <expireDate>20/01/2030</expireDate>
+    </card>
+
+    <card>
+        <cardNumber>202223344</cardNumber>
+        <cardBrand>Master</cardBrand>
+        <currency>USD</currency>
+        <issuerBank>InecoBank</issuerBank>
+        <cardHolder>Armen Petrosyan</cardHolder>
+        <expireDate>20/01/2030</expireDate>
+    </card>
+    <card>
+        <cardNumber>202930405</cardNumber>
+        <cardBrand>Master</cardBrand>
+        <currency>USD</currency>
+        <issuerBank>InecoBank</issuerBank>
+        <cardHolder>Armen Sargsyan</cardHolder>
+        <expireDate>20/01/2030</expireDate>
+    </card>
+    <card>
+        <cardNumber>301223564</cardNumber>
+        <cardBrand>Arca</cardBrand>
+        <currency>USD</currency>
+        <issuerBank>HSBC</issuerBank>
+        <cardHolder>Anna Harutyunyan</cardHolder>
+        <expireDate>20/01/2030</expireDate>
+    </card>
+
+</cards>
